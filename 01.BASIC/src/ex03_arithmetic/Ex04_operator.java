@@ -1,4 +1,4 @@
-package ex03.arithmetic;
+package ex03_arithmetic;
 
 public class Ex04_operator {
 
